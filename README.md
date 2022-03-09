@@ -4,12 +4,19 @@
 
 サーバーサイドの部分に関してはある程度完成してはいるのですが、webサイトの見た目の部分(フロントエンド)に関しては不十分なものであるため、現在も改善中です。
 
+
 アプリをweb上に公開するデプロイに関してはまだできていません。
 （ドメイン取得済み、awsで2日以内に公開致します。 ※3月9日現在）
 
 面接時には、ある程度の完成度に仕上げるつもりです。宜しくお願い致します:bow:
 
 以下、私の紹介
+
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ユーザ名&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
 
 
 
