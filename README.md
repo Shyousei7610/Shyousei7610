@@ -12,6 +12,16 @@
 
 ### 以下、私の紹介
 
+
+#### 誰にも負けないくらい異様に詳しい事
+・NARUTO:books:　・
+
+#### 今現在注力している言語&フレームワーク
+・PHP・laravel
+
+#### 今後学びたいと思っている言語&フレームワーク
+・Python ・JAVA　・kotlin
+
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Shyousei7610&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Shyousei7610/)
 
