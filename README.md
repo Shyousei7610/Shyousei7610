@@ -13,10 +13,10 @@
 以下、私の紹介
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ユーザ名&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Shyousei7610&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Shyousei7610/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyousei7610&layout=compact&theme=tokyonight)](https://github.com/Shyousei7610/)
 
 
 
